@@ -12,6 +12,8 @@ When: Mon 29 Jun 2020 12:00 - 12:10 at MSR:Zoom
 Link:
 http://www.ing.unisannio.it/mdipenta/papers/unitysmells.pdf
 
+https://www.youtube.com/watch?v=kztzixMoUZw
+
 Introduction and motivation
 In this paper we propose unity linter, a static analysis tool that supports unity video game 
 development. Such smell types pertain to performance, maintainability and incorrect behavior 
