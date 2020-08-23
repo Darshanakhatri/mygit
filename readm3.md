@@ -45,7 +45,6 @@ graphics, the plot of games like objects and area and movements are graphically 
 with the Unity, Unity allows developers to decorate an object with different kind of various
 components.
 
-
 ## Result
 
 Result of the study indicates that overall developers well perceive the smells we defined in 
