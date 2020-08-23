@@ -1,18 +1,22 @@
-Need for Tweet: How Open Source Developers 
+# Need for Tweet: How Open Source Developers Talk About Their GITHUB Work on Twitter 
 
-Talk About Their GITHUB Work on Twitter 
-Author
+## Author
+
 HONGBO FANG, DANIEL KLUG, HEMANK LAMBA, JAMES HERBSIEB, BOGDAN 
 VASILESCU
 
-When: Tue 30 Jun 2020 16:00 - 16:10 
-https://cmustrudel.github.io/papers/msr20tweets.pdf
+>When: Tue 30 Jun 2020 16:00 - 16:10 at MSR:Zoom - Developer Collaboration 
+Chair(s):**_Bogdan Vasilescu_**
 
+[summary2 link](https://cmustrudel.github.io/papers/msr20tweets.pdf)
 
-Introduction and Motivation
+https://www.youtube.com/watch?v=DlXObspmZiI
+
+## Introduction and Motivation
+
 Twitter is a general social media platform. Twitter is especially popular with software 
 developers and actively studied by software engineering researchers. The activities on open 
-source platforms like GITHUB are only a part of the overall software development ecosystem 
+source platforms like GITHUB are only a part of the overall software development ecosystem  
 and that open source developers are often active on multiple platforms simultaneously, there is 
 a paucity of research studying the same populations of developers across platform.
 Looking prior work, in this paper the researchers discuss that how they propose a 
@@ -22,7 +26,9 @@ dataset we then report on a case study of 786 tweets by open-source developers a
 work. Specifically, we analyze tweets containing links to GITHUB repositories, combining 
 automatic characterization of tweet authors in terms of their relationship to the GITHUB items 
 linked in their tweets with qualitative analysis of the tweet contents. 
-Research methodology
+
+## Research methodology:
+
 Social media and Software Engineering: Software Engineering researchers give attention 
 to social media. As early as every researcher give his own idea about social media, that for what 
 purpose it is used. Further studies have shown that different social media is used for different 
@@ -65,7 +71,10 @@ Other: none of the above.
 Finally we randomly sampled 200 tweets from each of the five strata for our qualitative 
 analysis. The two researchers proceeded iteratively. First each independently coded a random 
 sample of the same 50 tweets then compared results. 
-Result 
+
+
+## Result:
+
 Here result seem to suggest that GITHUB project role and Twitter posting patterns are related. 
 We discuss how this can inform future research.
 Six major themes emerged from our qualitative analysis and here is these.
