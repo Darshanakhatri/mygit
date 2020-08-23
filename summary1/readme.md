@@ -2,20 +2,22 @@
 # Detecting video game-specific bad smells in unity project
 
 ## Author
-
 ANTONIO BORRELLI, VITTORIA NARDONE, GIUSEPPE DI LUCCA, GERARDO 
 CANTORA, MASAIMILIANO DI PENTA
 
->Track:  MSR 2020 Technical Papers
+## Track: 
+ MSR 2020 Technical Papers
 
 >When: Mon 29 Jun 2020 12:00 - 12:10 at MSR:Zoom - Code Smells
 Chair(s): **_Alessandro Garcia_**
+
 
 [summmary3 link](http://www.ing.unisannio.it/mdipenta/papers/unitysmells.pdf)
 
 https://www.youtube.com/watch?v=kztzixMoUZw
 
 ## Introduction and motivation
+
 In this paper we propose unity linter, a static analysis tool that supports unity video game 
 development. Such smell types pertain to performance, maintainability and incorrect behavior 
 problems. The largest portion of video game market is targeting mobile devices and 
@@ -42,11 +44,12 @@ graphics, the plot of games like objects and area and movements are graphically 
 with the Unity, Unity allows developers to decorate an object with different kind of various
 components.
 
-
 ## Result
- Result of the study indicates that overall developers well perceive the smells we defined in 
+
+Result of the study indicates that overall developers well perceive the smells we defined in 
 particular, those related to performance and game behavior while maintenance related smells 
 are more controversial. Our manual validation indicates that unity linter achieves for different 
 smells types 86%-100% precision and 50%-100% recall. Depending on the type the presence of 
 the studied smells in the analyzed projects various between 39% and 97% of the analyzed 
 projects.
+
